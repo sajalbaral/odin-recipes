@@ -1,6 +1,6 @@
 # odin-recipes
 
-A basic recipe website using html.
+A basic recipe website using html for the odin project.
 
 This project will help me demonstrate the follow HTML skills:
 1. Use of proper HTML tags
