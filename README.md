@@ -7,3 +7,5 @@ This project will help me demonstrate the follow HTML skills:
 2. Creating multiple relative links
 3. Creating a list (ordered or unordered)
 4. Using an image
+5. Using terminal to add and commit changes throughout the project
+6. Using terminal to push changes to main branch
