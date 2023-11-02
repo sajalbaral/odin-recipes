@@ -2,7 +2,7 @@
 
 A basic recipe website using html and css for the odin project.
 
-This project will help me demonstrate the follow HTML and terminal skills:
+This project will help me demonstrate the following HTML, CSS, and terminal skills:
 
 1. Use of proper HTML elements + tags
 2. Creating links to pages within my own website (relative links) and displaying imgages
