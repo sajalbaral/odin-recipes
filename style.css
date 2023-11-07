@@ -66,7 +66,7 @@ Landing page
 
 .container {
     display: flex;
-    background-color: rgba(247, 244, 244, 0.516);
+    background-color: rgba(220, 220, 220, 0.702);
     padding: 50px 15px 40px 15px;
     gap: 40px;
 }
@@ -90,3 +90,43 @@ Landing page
 Recipe Pages
 
 **/
+
+.food__img {
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 50%;
+    margin-top: 30px;
+    width: 300px;
+    height: 300px;
+}
+
+.center {
+    text-align: center;
+}
+
+.recipe__container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    width: 600px;
+    margin-left: 400px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    border: 10px solid black;
+
+}
+
+.recipe__styling {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-top: 2px solid rgb(0, 0, 0);
+    padding: 10px;
+}
+
+.background__color {
+    background-color: rgb(250, 188, 74);
+    padding: 30px;
+    color: black;
+}
